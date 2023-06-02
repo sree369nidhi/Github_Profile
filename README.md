@@ -50,6 +50,6 @@ I'm a dedicated and innovative professional with a total of 3 years of industry 
 </br>
 
 
-⭐️ From [mitesh2205](https://github.com/sree369nidhi)
+⭐️ From [sree369nidhi](https://github.com/sree369nidhi)
 .
 
