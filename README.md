@@ -34,9 +34,9 @@ I'm a dedicated and innovative professional with a total of 3 years of industry 
   
   <br/>
 
-<a href="https://github.com/mitesh2205">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitesh2205&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitesh2205&theme=buefy&layout=compact" />
+<a href="https://github.com/sree369nidhi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sree369nidhi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree369nidhi&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -44,8 +44,8 @@ I'm a dedicated and innovative professional with a total of 3 years of industry 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://instagram.com/mitesh_chhatbar"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mitesh_chhatbar-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:chhatbarmitesh20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chhatbarmitesh20@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="http://instagram.com/msreenidhi"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sreenidhi Iyengar Munimadugu-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:sree369nidhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sree369nidhi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 </br>
 
