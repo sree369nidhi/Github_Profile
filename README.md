@@ -7,7 +7,7 @@ I'm a dedicated and innovative professional with a total of 3 years of industry 
 - 🔭 I’m currently a Graduate Student Researcher at Information Sciences Institute USC.
 - 📚 My Tech Stack includes Python, SQL, Java, C++, Tensorflow, Pytorch, AWS, GCP and much more.
 - 👯 I’m looking for a full-time Software Development role. 
-- 🗒️ Download my <a href="https://example.com/Sreenidhi_Resume.pdf">Resume.
+- 🗒️ Download my <a href="https://github.com/sree369nidhi/resume/blob/main/Sreenidhi_Iyengar_Munimadugu_Updated_Resume_.pdf">Resume.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
